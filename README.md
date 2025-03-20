@@ -80,7 +80,7 @@ print(yp)           # 124-132 marks estimated
 ![image](https://github.com/user-attachments/assets/c025642c-aa20-4b36-a4e4-bc44ce1a22db)
 
 ## Predictive System:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/bfd97498-1120-4ee6-bbe8-8f5c59549139)
 
 
 ## Result:
