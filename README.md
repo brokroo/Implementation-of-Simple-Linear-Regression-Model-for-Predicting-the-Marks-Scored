@@ -61,7 +61,26 @@ print(yp)           # 124-132 marks estimated
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+## DATA
+![image](https://github.com/user-attachments/assets/3d905aca-8e59-4762-ba5a-d8497036e169)
+
+## X AND Y:
+![image](https://github.com/user-attachments/assets/6f149ecc-d22d-45ce-a471-ed77d6cb6986)
+
+## train_test_split:
+![image](https://github.com/user-attachments/assets/43b52350-7746-4598-8e69-4517813f0ef2)
+
+## LinearRegression Model:
+![image](https://github.com/user-attachments/assets/f040dd7b-b425-43c0-9e78-e2765789f359)
+
+## Visualization:
+![image](https://github.com/user-attachments/assets/6c39aa81-2ecf-4646-809c-d3b2f34b4a8f)
+
+## Error Analysis:
+![image](https://github.com/user-attachments/assets/c025642c-aa20-4b36-a4e4-bc44ce1a22db)
+
+## Predictive System:
+![Uploading image.png…]()
 
 
 ## Result:
